@@ -7,7 +7,7 @@
 This application is a basic social media api made with mongoDB. This api allows the user to create users, grab users update and delete users aswell. It also allows the user to add friends and create thoughts that other users can add reactions too.
 
 
-![Insomniascreenshot](./assets/images/screenshot.png?raw=true "insomnia screenshot")
+![Insomniascreenshot](./public/assets/images/screenshot.png?raw=true "insomnia screenshot")
 
 
 See a video of the api working [here](https://drive.google.com/file/d/10gfVyZ2zXesB781DStPnKhzq2GnhbqV-/view)
