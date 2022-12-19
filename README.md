@@ -10,7 +10,7 @@ This application is a basic social media api made with mongoDB. This api allows 
 ![Insomniascreenshot](./public/assets/images/screenshot.png?raw=true "insomnia screenshot")
 
 
-See a video of the api working [here](https://drive.google.com/file/d/10gfVyZ2zXesB781DStPnKhzq2GnhbqV-/view)
+See a video of the api working [here](https://www.youtube.com/watch?v=Jek-_NEDfFU)
 
 
 See the application's GitHub repository [here.](https://github.com/DylanB0905/Mongo-social-api)
